@@ -1,0 +1,8 @@
+*.pyc
+*.old
+*.csv
+*.xlsx
+.vscode/
+pullsheets/
+ignore/
+
